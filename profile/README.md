@@ -5,3 +5,4 @@ We are the fastest growing fintech company in Turkiye!
 - [Sipay Wallet and Sipay Card](https://sipay.com.tr/en/personal/)
 - [Payment Solutions](https://sipay.com.tr/en/business/)
 
+We love open source! We are proud to sponsor https://sipay.gokonf.com/
